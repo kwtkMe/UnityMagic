@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <symbol name="UNITY_EDITOR"   comment="ゲームコードから Unity エディターのスクリプトを呼び出す" />
+    <symbol name="ENABLE_IL2CPP"   comment="IL2CPPの有効化" />
+    <symbol name="ENABLE_UNSAFE_MSGPACK"   comment="安全でないMessagePackの使用の許可" />
+    <symbol name="NET_2_0" comment=".NET 2.0の互換性" />
+    <symbol name="NET_4_6" comment=".NET 4.xの互換性" />
+</root>
