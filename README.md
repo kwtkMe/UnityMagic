@@ -1,6 +1,6 @@
 # UnityMagic
 
-## ディレクトリ構成について
+## ディレクトリ構成など
 ### Scene
 - ScriptController
     - スクリプトをアタッチする
