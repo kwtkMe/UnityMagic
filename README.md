@@ -1,5 +1,11 @@
 # UnityMagic
 
+## 参考URL
+- [Unity+.NET Core+MagicOnionの環境構築ハンズオン -Qiita-](https://qiita.com/_y_minami/items/c7899fdf1db505c06ba2)
+- [MagicOnion v2を使ってUnity IL2CPPでgRPC通信をする -Qiita-](https://qiita.com/yKimisaki/items/1d55b08f3e7bcae46585)
+- [[ビルド前に実行するコマンド ライン] / [ビルド後に実行するコマンド ライン] ダイアログ ボックス](https://docs.microsoft.com/ja-jp/visualstudio/ide/reference/pre-build-event-post-build-event-command-line-dialog-box?view=vs-2019)
+- [Github for Unity を導入してみる](https://tech.guitarrapc.com/entry/2017/07/14/031046)
+
 ## ディレクトリ構成など
 
 ### Scene
@@ -22,11 +28,6 @@
     - Scratched/SceneScripts/
         - シーンのライフサイクル、UIの挙動に従うスクリプト
         - シーン上のScriptControllerにアタッチする
-
-
-## 参考URL
-- [Unity+.NET Core+MagicOnionの環境構築ハンズオン -Qiita-](https://qiita.com/_y_minami/items/c7899fdf1db505c06ba2)
-- [MagicOnion v2を使ってUnity IL2CPPでgRPC通信をする -Qiita-](https://qiita.com/yKimisaki/items/1d55b08f3e7bcae46585)
 
 
 ## GitHubのリポジトリにUnityプロジェクトが入りきらなかった
